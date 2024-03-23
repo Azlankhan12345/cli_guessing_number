@@ -1,1 +1,1 @@
-# cli_guessing_number
+This is a cli based guessing number
